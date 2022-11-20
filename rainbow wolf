@@ -1,481 +1,501 @@
 while wait() do
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonPrimary", 
-					[2] = "OceanPrimary", 
-					[3] = "BackFluff", 
-					[4] = "TailFluff", 
-					[5] = "LeftWingStart", 
-					[6] = "LeftWing2", 
-					[7] = "LeftWing3", 
-					[8] = "RightWingStart", 
-					[9] = "RightWing2", 
-					[10] = "RightWing3", 
-					[11] = "EyeLid", 
-					[12] = "Torso", 
-					[13] = "Tail1", 
-					[14] = "Tail2", 
-					[15] = "Tail3", 
-					[16] = "Tail5", 
-					[17] = "Tail6", 
-					[18] = "RightThigh", 
-					[19] = "RightEar", 
-					[20] = "EyeLid", 
-					[21] = "Head", 
-					[22] = "Hip", 
-					[23] = "LeftEar", 
-					[24] = "LeftThigh", 
-					[25] = "Muzzle", 
-					[26] = "Neck", 
-					[27] = "NeckReal"
-				}
-			local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonSecondary", 
-					[2] = "OceanSecondary", 
-					[3] = "ChubbyCheeks", 
-					[4] = "Fat", 
-					[5] = "EarFluff", 
-					[6] = "JawFluff", 
-					[7] = "ChestFluff", 
-					[8] = "LegFluff", 
-					[9] = "Eyebrow1", 
-					[10] = "Eyebrow2", 
-					[11] = "Secondary", 
-					[12] = "Jaw", 
-					[13] = "RightShoulder", 
-					[14] = "RightLowerLeg", 
-					[15] = "RightLowerArm", 
-					[16] = "RightLeg", 
-					[17] = "RightFootPaw", 
-					[18] = "LeftArm", 
-					[19] = "LeftArmPaw", 
-					[20] = "LeftCarpal", 
-					[21] = "LeftFootPaw", 
-					[22] = "LeftLeg", 
-					[23] = "LeftLowerArm", 
-					[24] = "LeftLowerLeg", 
-					[25] = "LeftShoulder", 
-					[26] = "RightArm", 
-					[27] = "RightArmPaw", 
-					[28] = "RightCarpal"
-				}
-			local A_3 = Color3.new(0.960784, 0.529412, 0.141176)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
+ 
+ 	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonPrimary", 
-					[2] = "OceanPrimary", 
-					[3] = "BackFluff", 
-					[4] = "TailFluff", 
-					[5] = "LeftWingStart", 
-					[6] = "LeftWing2", 
-					[7] = "LeftWing3", 
-					[8] = "RightWingStart", 
-					[9] = "RightWing2", 
-					[10] = "RightWing3", 
-					[11] = "EyeLid", 
-					[12] = "Torso", 
-					[13] = "Tail1", 
-					[14] = "Tail2", 
-					[15] = "Tail3", 
-					[16] = "Tail5", 
-					[17] = "Tail6", 
-					[18] = "RightThigh", 
-					[19] = "RightEar", 
-					[20] = "EyeLid", 
-					[21] = "Head", 
-					[22] = "Hip", 
-					[23] = "LeftEar", 
-					[24] = "LeftThigh", 
-					[25] = "Muzzle", 
-					[26] = "Neck", 
-					[27] = "NeckReal"
-				}
-			local A_3 = Color3.new(0.960784, 0.529412, 0.141176)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
+ 
+ 	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonSecondary", 
-					[2] = "OceanSecondary", 
-					[3] = "ChubbyCheeks", 
-					[4] = "Fat", 
-					[5] = "EarFluff", 
-					[6] = "JawFluff", 
-					[7] = "ChestFluff", 
-					[8] = "LegFluff", 
-					[9] = "Eyebrow1", 
-					[10] = "Eyebrow2", 
-					[11] = "Secondary", 
-					[12] = "Jaw", 
-					[13] = "RightShoulder", 
-					[14] = "RightLowerLeg", 
-					[15] = "RightLowerArm", 
-					[16] = "RightLeg", 
-					[17] = "RightFootPaw", 
-					[18] = "LeftArm", 
-					[19] = "LeftArmPaw", 
-					[20] = "LeftCarpal", 
-					[21] = "LeftFootPaw", 
-					[22] = "LeftLeg", 
-					[23] = "LeftLowerArm", 
-					[24] = "LeftLowerLeg", 
-					[25] = "LeftShoulder", 
-					[26] = "RightArm", 
-					[27] = "RightArmPaw", 
-					[28] = "RightCarpal"
-				}
-			local A_3 = Color3.new(0.960784, 0.921569, 0.0901961)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
+ 
+ 	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonPrimary", 
-					[2] = "OceanPrimary", 
-					[3] = "BackFluff", 
-					[4] = "TailFluff", 
-					[5] = "LeftWingStart", 
-					[6] = "LeftWing2", 
-					[7] = "LeftWing3", 
-					[8] = "RightWingStart", 
-					[9] = "RightWing2", 
-					[10] = "RightWing3", 
-					[11] = "EyeLid", 
-					[12] = "Torso", 
-					[13] = "Tail1", 
-					[14] = "Tail2", 
-					[15] = "Tail3", 
-					[16] = "Tail5", 
-					[17] = "Tail6", 
-					[18] = "RightThigh", 
-					[19] = "RightEar", 
-					[20] = "EyeLid", 
-					[21] = "Head", 
-					[22] = "Hip", 
-					[23] = "LeftEar", 
-					[24] = "LeftThigh", 
-					[25] = "Muzzle", 
-					[26] = "Neck", 
-					[27] = "NeckReal"
-				}
-			local A_3 = Color3.new(0.960784, 0.921569, 0.0901961)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
+ 
+ 	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonSecondary", 
-					[2] = "OceanSecondary", 
-					[3] = "ChubbyCheeks", 
-					[4] = "Fat", 
-					[5] = "EarFluff", 
-					[6] = "JawFluff", 
-					[7] = "ChestFluff", 
-					[8] = "LegFluff", 
-					[9] = "Eyebrow1", 
-					[10] = "Eyebrow2", 
-					[11] = "Secondary", 
-					[12] = "Jaw", 
-					[13] = "RightShoulder", 
-					[14] = "RightLowerLeg", 
-					[15] = "RightLowerArm", 
-					[16] = "RightLeg", 
-					[17] = "RightFootPaw", 
-					[18] = "LeftArm", 
-					[19] = "LeftArmPaw", 
-					[20] = "LeftCarpal", 
-					[21] = "LeftFootPaw", 
-					[22] = "LeftLeg", 
-					[23] = "LeftLowerArm", 
-					[24] = "LeftLowerLeg", 
-					[25] = "LeftShoulder", 
-					[26] = "RightArm", 
-					[27] = "RightArmPaw", 
-					[28] = "RightCarpal"
-				}
-			local A_3 = Color3.new(0.105882, 0.980392, 0.227451)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "DragonPrimary", 
+			[2] = "OceanPrimary", 
+			[3] = "BackFluff", 
+			[4] = "TailFluff", 
+			[5] = "LeftWingStart", 
+			[6] = "LeftWing2", 
+			[7] = "LeftWing3", 
+			[8] = "RightWingStart", 
+			[9] = "RightWing2", 
+			[10] = "RightWing3", 
+			[11] = "EyeLid", 
+			[12] = "Torso", 
+			[13] = "Tail1", 
+			[14] = "Tail2", 
+			[15] = "Tail3", 
+			[16] = "Tail5", 
+			[17] = "Tail6", 
+			[18] = "RightThigh", 
+			[19] = "RightEar", 
+			[20] = "EyeLid", 
+			[21] = "Head", 
+			[22] = "Hip", 
+			[23] = "LeftEar", 
+			[24] = "LeftThigh", 
+			[25] = "Muzzle", 
+			[26] = "Neck", 
+			[27] = "NeckReal"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.2)
+ 
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonPrimary", 
-					[2] = "OceanPrimary", 
-					[3] = "BackFluff", 
-					[4] = "TailFluff", 
-					[5] = "LeftWingStart", 
-					[6] = "LeftWing2", 
-					[7] = "LeftWing3", 
-					[8] = "RightWingStart", 
-					[9] = "RightWing2", 
-					[10] = "RightWing3", 
-					[11] = "EyeLid", 
-					[12] = "Torso", 
-					[13] = "Tail1", 
-					[14] = "Tail2", 
-					[15] = "Tail3", 
-					[16] = "Tail5", 
-					[17] = "Tail6", 
-					[18] = "RightThigh", 
-					[19] = "RightEar", 
-					[20] = "EyeLid", 
-					[21] = "Head", 
-					[22] = "Hip", 
-					[23] = "LeftEar", 
-					[24] = "LeftThigh", 
-					[25] = "Muzzle", 
-					[26] = "Neck", 
-					[27] = "NeckReal"
-				}
-			local A_3 = Color3.new(0.894118, 0.431373, 0.811765)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonSecondary", 
-					[2] = "OceanSecondary", 
-					[3] = "ChubbyCheeks", 
-					[4] = "Fat", 
-					[5] = "EarFluff", 
-					[6] = "JawFluff", 
-					[7] = "ChestFluff", 
-					[8] = "LegFluff", 
-					[9] = "Eyebrow1", 
-					[10] = "Eyebrow2", 
-					[11] = "Secondary", 
-					[12] = "Jaw", 
-					[13] = "RightShoulder", 
-					[14] = "RightLowerLeg", 
-					[15] = "RightLowerArm", 
-					[16] = "RightLeg", 
-					[17] = "RightFootPaw", 
-					[18] = "LeftArm", 
-					[19] = "LeftArmPaw", 
-					[20] = "LeftCarpal", 
-					[21] = "LeftFootPaw", 
-					[22] = "LeftLeg", 
-					[23] = "LeftLowerArm", 
-					[24] = "LeftLowerLeg", 
-					[25] = "LeftShoulder", 
-					[26] = "RightArm", 
-					[27] = "RightArmPaw", 
-					[28] = "RightCarpal"
-				}
-			local A_3 = Color3.new(0.486275, 0.117647, 0.988235)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonPrimary", 
-					[2] = "OceanPrimary", 
-					[3] = "BackFluff", 
-					[4] = "TailFluff", 
-					[5] = "LeftWingStart", 
-					[6] = "LeftWing2", 
-					[7] = "LeftWing3", 
-					[8] = "RightWingStart", 
-					[9] = "RightWing2", 
-					[10] = "RightWing3", 
-					[11] = "EyeLid", 
-					[12] = "Torso", 
-					[13] = "Tail1", 
-					[14] = "Tail2", 
-					[15] = "Tail3", 
-					[16] = "Tail5", 
-					[17] = "Tail6", 
-					[18] = "RightThigh", 
-					[19] = "RightEar", 
-					[20] = "EyeLid", 
-					[21] = "Head", 
-					[22] = "Hip", 
-					[23] = "LeftEar", 
-					[24] = "LeftThigh", 
-					[25] = "Muzzle", 
-					[26] = "Neck", 
-					[27] = "NeckReal"
-				}
-			local A_3 = Color3.new(0.486275, 0.117647, 0.988235)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "DragonSecondary", 
-					[2] = "OceanSecondary", 
-					[3] = "ChubbyCheeks", 
-					[4] = "Fat", 
-					[5] = "EarFluff", 
-					[6] = "JawFluff", 
-					[7] = "ChestFluff", 
-					[8] = "LegFluff", 
-					[9] = "Eyebrow1", 
-					[10] = "Eyebrow2", 
-					[11] = "Secondary", 
-					[12] = "Jaw", 
-					[13] = "RightShoulder", 
-					[14] = "RightLowerLeg", 
-					[15] = "RightLowerArm", 
-					[16] = "RightLeg", 
-					[17] = "RightFootPaw", 
-					[18] = "LeftArm", 
-					[19] = "LeftArmPaw", 
-					[20] = "LeftCarpal", 
-					[21] = "LeftFootPaw", 
-					[22] = "LeftLeg", 
-					[23] = "LeftLowerArm", 
-					[24] = "LeftLowerLeg", 
-					[25] = "LeftShoulder", 
-					[26] = "RightArm", 
-					[27] = "RightArmPaw", 
-					[28] = "RightCarpal"
-				}
-			local A_3 = Color3.new(0.0745098, 0.121569, 0.788235)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.2)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.960784, 0.529412, 0.141176)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.960784, 0.921569, 0.0901961)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.105882, 0.980392, 0.227451)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
 	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.0627451, 0.980392, 0.988235)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
-	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.0745098, 0.121569, 0.788235)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
-	
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.486275, 0.117647, 0.988235)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
-			
-			local A_1 = "customize"
-			local A_2 = 
-				{
-					[1] = "Claws", 
-					[2] = "DragonClaws", 
-					[3] = "DragonThird"
-				}
-			local A_3 = Color3.new(0.894118, 0.431373, 0.811765)
-			local A_4 = "Body"
-			local Event = game:GetService("ReplicatedStorage").MasterKey
-			Event:FireServer(A_1, A_2, A_3, A_4)
-			wait(.1)
-		end
-	end)
+	local A_1 = "customize"
+	local A_2 = 
+		{
+			[1] = "Claws", 
+			[2] = "DragonClaws", 
+			[3] = "DragonThird"
+		}
+	local A_3 = Color3.new(0.960784, 0.0784314, 0.0862745)
+	local A_4 = "Body"
+	local Event = game:GetService("ReplicatedStorage").MasterKey
+	Event:FireServer(A_1, A_2, A_3, A_4)
+	wait(.1)
+end
